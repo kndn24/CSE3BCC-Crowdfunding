@@ -1,7 +1,7 @@
 # Blockchain Crowdfunding Smart Contract
 
 **Unit:** CSE3BCC - Blockchain and Cryptocurrencies
-**Student:** Khwaja Nazamuddin Najmi (22298201)
+
 
 ## About
 
