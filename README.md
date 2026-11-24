@@ -67,6 +67,6 @@ Deployed on the Ethereum Sepolia testnet with the campaign "Community Project", 
 - An independent security audit before real-world use
 
 ## Author
-Khwaja Nazamuddin Najmi
-Bachelor of Cyber security
-GitHub: @kndn24
+- Khwaja Nazamuddin Najmi
+- Bachelor of Cyber security
+- GitHub: @kndn24
