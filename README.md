@@ -66,7 +66,7 @@ Deployed on the Ethereum Sepolia testnet with the campaign "Community Project", 
 - Stablecoin support
 - An independent security audit before real-world use
 
-Author
+## Author
 Khwaja Nazamuddin Najmi
 Bachelor of Cyber security
-GitHub: kndn24
+GitHub: @kndn24
