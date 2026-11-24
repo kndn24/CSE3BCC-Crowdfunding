@@ -65,3 +65,8 @@ Deployed on the Ethereum Sepolia testnet with the campaign "Community Project", 
 - A web DApp front end
 - Stablecoin support
 - An independent security audit before real-world use
+
+Author
+Khwaja Nazamuddin Najmi
+Bachelor of Cyber security
+GitHub: kndn24
