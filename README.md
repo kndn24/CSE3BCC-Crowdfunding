@@ -39,26 +39,41 @@ Solidity, Hardhat 3, TypeScript, Alchemy, MetaMask, Ethereum Sepolia testnet
 ## How to run
 
 1. Install dependencies:
-   npm install
+```bash
+npm install
+```
 
 2. Compile the contract:
-
+```bash
 npx hardhat compile
+```
 
-3. Set your environment variables (never commit real values):
+3. Set your environment variables (never commit real values).
 
-SEPOLIA_RPC_URL=your_alchemy_sepolia_url
-SEPOLIA_PRIVATE_KEY=your_wallet_private_key
+   Windows Command Prompt:
+```cmd
+set SEPOLIA_RPC_URL=your_alchemy_sepolia_url
+set SEPOLIA_PRIVATE_KEY=your_wallet_private_key
+```
+
+   Linux / macOS:
+```bash
+export SEPOLIA_RPC_URL="your_alchemy_sepolia_url"
+export SEPOLIA_PRIVATE_KEY="your_wallet_private_key"
+```
 
 4. Deploy to Sepolia:
-
+```bash
 npx hardhat run scripts/deploy.js --network sepolia
+```
 
 
 ## Deployment
 
 Deployed on the Ethereum Sepolia testnet with the campaign "Community Project", a goal of 0.01 ETH, and a 7-day duration. The source code is verified on Sepolia Etherscan.
 
+**Contract address:** `0xd4eA78703A7b546512AD06bAb1E4e66EEBad9391`
+**Etherscan:** https://sepolia.etherscan.io/address/0xd4eA78703A7b546512AD06bAb1E4e66EEBad9391
 ## Future improvements
 
 - Milestone-based fund release with contributor voting
